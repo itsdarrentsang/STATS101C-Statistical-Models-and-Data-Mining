@@ -1,6 +1,6 @@
 # STATS101C-Statistical-Models-and-Data-Mining
 
-These are my solutions to UCLA's STATS 101C, Statistical Models and Data Mining, taken Fall 2020 with Professor Tao Gao.
+These are my solutions to UCLA's STATS 101C, Statistical Models and Data Mining, taken Winter 2021 with Professor Tao Gao.
 
 Assignment | Score
 ----       | ----
